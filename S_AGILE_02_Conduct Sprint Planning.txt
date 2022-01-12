@@ -1,0 +1,19 @@
+Sprint goal: 
+	user can view and order food from every restaurant in the app.
+backlog items: 
+	- costumer can sign in.
+	- costumer can edit profile.
+	- costumer can view restaurants.
+	- costumer can view menues.
+	- costumer can search restaurants.
+	- costumer can add meals to cart.
+	- costumer can purchase the meals.
+	- restaurant can view orders.
+	- restaurant can mark orders.
+team availablity:
+	the team will be available during the two months period with no holidays or vecations.
+team capacity: 
+	five members.
+
+	
+
