@@ -1,0 +1,19 @@
+by how much, is it over/under budget? Because CV is negative and CPI is <1, the project is considered to be over budget.
+by how many days, is it ahead/behind the schedule? Because SV is negative and SPI is <1, the project is considered behind schedule.
+by the end of the project, by how much will it be over/under budget? 4830.287
+calculate CV cost variance, SV schedule variance, CPI Cost Performance Index, Schedule Performance Index SPI, EAC Estimate at Completion
+
+only 56.66% of the project is done.
+
+Planned Value (PV) = the budgeted amount through the current reporting period = 3700
+Total Project Budget = 3700
+Actual Cost (AC) = actual costs to date = 2700
+Earned Value (EV) = total project budget multiplied by the % of project completion = 3700 * 0.5666 = 2096.42
+
+CV = EV–AC = 2096.42 - 2700 = -603.58
+
+SV = EV–PV = 2096.42 - 3700 = -1603.58
+CPI = EV/AC = 2096.42/2700 = 0.776
+SPI = EV/PV = 2096.42/3700 = 0.5666
+EAC = (Total Project Budget)/CPI = 3700/0.776= 4830.287
+
